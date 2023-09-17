@@ -1,1 +1,1 @@
-# JavaScript_tasks
+# Here is JavaScript tasks for learning
